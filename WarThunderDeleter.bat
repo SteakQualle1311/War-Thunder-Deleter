@@ -1,0 +1,3 @@
+@echo off
+echo Bitte warten...
+rmdir /s /q "C:\Program Files (x86)\Steam\steamapps\common\War Thunder"
